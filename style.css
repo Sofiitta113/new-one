@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+    background-color: Thistle;
+}
+header{
+   border: solid 1px purple;
+    border-radius: 1px;
+    margin: 10px;
+    padding: 5px;
+}
+header  img {
+    
+    margin: 5px;
+
+}
+header b {
+    color: indigo;
+}
+header a{
+    background-color: white;
+    border-radius: 5px;
+    color: blue; 
+    text-decoration: none;
+    padding: 3px;
+    margin: 10px
+}
+main h1 {
+    font-size: 33px;
+    text-align: center;
+    border: solid purple 3px;
+    color: purple;
+    background: plum;
+    border-radius: 15px;
+    margin: 25px;
+}
+footer {
+    background: plum;
+    border: solid 1px plum;
+    padding: 5px;
+    margin: 3px;
+    border-radius: 5px;
+
+}
+footer p {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+nav a {
+    
+    text-decoration: none;
+    color: purple;
+    margin: 5px;
+}
+.ghjlerwbz {
+    border: solid 3px indigo;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 7px;
+}
+.dcd {
+    border: solid 3px DarkViolet;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 7px;
+
+}
+.ccskrb {
+     border: solid 3px indigo;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 7px;
+    text-decoration: none;
+    color: purple;
+    background-color: mistyrose;
+    
+}
+h2 {
+    color: darkslateblue
+}
+.purple {
+    background: mediumpurple;
+    border-radius: 9px;
+    padding: 5px;
+}
